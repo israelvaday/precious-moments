@@ -1,1 +1,11 @@
-node_modules
+node_modules/
+out/
+.next/
+src/
+*.config.js
+*.config.ts
+tsconfig.json
+package.json
+package-lock.json
+tailwind.config.ts
+postcss.config.mjs
